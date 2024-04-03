@@ -1,6 +1,6 @@
 # Tag CRUD Fullstack Application
 
-A simple CRUD back end web application created for Thrive Pet Healthcare's interview project. Matching the requirements of the challenge, the application allows users to read and delete tags.
+A simple CRUD full stack web application created for Thrive Pet Healthcare's interview project. Matching the requirements of the challenge, the application allows users to read and delete tags.
 
 Further details about the front-end and back-end can be found in their respective directories' README files.
 
