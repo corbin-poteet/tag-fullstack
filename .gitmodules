@@ -1,6 +1,8 @@
 [submodule "tag-backend"]
 	path = tag-backend
 	url = https://github.com/corbin-poteet/tag-backend.git
+	branch = main
 [submodule "tag-frontend"]
 	path = tag-frontend
 	url = https://github.com/corbin-poteet/tag-frontend.git
+	branch = main
