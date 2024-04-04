@@ -36,7 +36,7 @@ Further details about the front-end and back-end can be found in their respectiv
     - Hostname: `127.0.0.1` or `localhost`
     - Port: `3306`
     - Username: `root`
-    - Password: ``
+    - Password: `password`
 5. Run the project
 6. Use Postman or any other API testing tool to test the endpoints
 
